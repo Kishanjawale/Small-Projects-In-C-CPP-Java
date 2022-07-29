@@ -5,9 +5,7 @@ using namespace std;
 //@Author:Kishan Jawale
 //Date: 08/04/2022
 //Description:
-//In this application i have  used 2 user defined header files
-//                   1.Perimeter.h(This file contain logic to find perimeter of shapes)
-//                   2.Area.h(This file contain logic to find Area of shapes)   
+//
 /*
      This Application Takes the input from user and perform Various 
      Operations like:  
