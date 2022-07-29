@@ -6,8 +6,8 @@
 // Input :          How much amount you want to convert 
 // Output :         Converted amount in other Currencies
 // Description :    It is used to convert one currency to another currency
-// Author :         Vaibhav Tukaram Gaikwad
-// Date :           11/04/2022
+// Author :         Kishan Vivek Jawale
+// Date :           22/04/2022
 //
 ////////////////////////////////////////////////////////
 
