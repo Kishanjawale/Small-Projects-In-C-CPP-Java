@@ -1,0 +1,16 @@
+This application just explains  how we can create our own header file and include in 
+our program and call the function present in header file
+ 
+
+important points:
+1. All files should be in same folder 
+
+
+Instruction for Compilation for gcc compilor:
+gcc Mainfile.c -o myexe
+
+Instruction for Running the exe file  using  gcc compilor:
+myexe
+
+
+
